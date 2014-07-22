@@ -1,7 +1,6 @@
 # co-lab
 
 [![Build](https://travis-ci.org/avbel/co-lab.png)](https://travis-ci.org/avbel/co-lab)
-[![Dependencies](https://david-dm.org/avbel/co-lab.png)](https://david-dm.org/avbel/co-lab)
 
 
 This module lets you use powered by [co](https://github.com/visionmedia/co) generators inside [lab](https://github.com/spumko/lab) tests. Node 0.11+ is required.
