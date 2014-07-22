@@ -28,6 +28,7 @@ See a demo bellow to see abilities of this module
 
 ```
 "use strict";
+
 let Lab = require("co-lab");
 
 Lab.experiment("ES6 generators", function(){
