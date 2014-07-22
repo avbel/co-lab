@@ -3,7 +3,7 @@
     "node": ">=0.11"
   },
   "name": "co-lab",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "It allows to use ES6 generators (co-powered) inside lab's tests",
   "main": "index.js",
   "scripts": {
