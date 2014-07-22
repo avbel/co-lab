@@ -1,0 +1,34 @@
+{
+  "engines": {
+    "node": ">=0.11"
+  },
+  "name": "co-lab",
+  "version": "0.0.0",
+  "description": "It allows to use ES6 generators (co-powered) inside lab's tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony ./node_modules/.bin/lab -l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avbel/co-lab.git"
+  },
+  "keywords": [
+    "co",
+    "lab",
+    "hapi",
+    "test",
+    "es6",
+    "generators"
+  ],
+  "author": "avbel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avbel/co-lab/issues"
+  },
+  "homepage": "https://github.com/avbel/co-lab",
+  "devDependencies": {
+    "co": "^3.0.6",
+    "lab": "^3.2.1"
+  }
+}
